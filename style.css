@@ -141,23 +141,23 @@ header {
 }
 
 header.header-paris{
-    background-image: background-paris.jpg;
+    background-image: url(./background-paris.jpg);
 }
 
 header.header-london{
-    background-image: background-england.png;
+    background-image: url(./background-england.png);
 }
 
 header.header-los-angeles{
-    background-image: background-usa.png;
+    background-image: (./background-usa.png);
 }
 
 header.header-home{
-    background-image: background-home.png;
+    background-image: (./background-home.png);
 }
 
 header.header-gallery{
-    background-image: gallery-background.png;
+    background-image: (./gallery-background.png);
 }
 
 .header-inner {
