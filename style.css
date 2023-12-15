@@ -149,15 +149,15 @@ header.header-london{
 }
 
 header.header-los-angeles{
-    background-image: (./background-usa.png);
+    background-image: url(./background-usa.png);
 }
 
 header.header-home{
-    background-image: (./background-home.png);
+    background-image: url(./background-home.png);
 }
 
 header.header-gallery{
-    background-image: (./gallery-background.png);
+    background-image: url(./gallery-background.png);
 }
 
 .header-inner {
