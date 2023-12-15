@@ -157,7 +157,7 @@ header.header-home{
 }
 
 header.header-gallery{
-    background-image: url(gallery-background.png);
+    background-image: gallery-background.png;
 }
 
 .header-inner {
