@@ -234,23 +234,23 @@ header {
 }
 
 header.header-paris{
-    background-image: url(/images/background-paris.png);
+    background-image: url(images/background-paris.jng);
 }
 
 header.header-london{
-    background-image: url(/images/background-england.png);
+    background-image: url(images/background-england.png);
 }
 
 header.header-los-angeles{
-    background-image: url(/images/background-usa.png);
+    background-image: url(images/background-usa.png);
 }
 
 header.header-home{
-    background-image: url(/images/background-home.png);
+    background-image: url(images/background-home.png);
 }
 
 header.header-gallery{
-    background-image: url(/images/gallery-background.png);
+    background-image: url(images/gallery-background.png);
 }
 
 .header-inner {
